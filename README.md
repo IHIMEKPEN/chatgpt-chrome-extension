@@ -54,6 +54,3 @@ Your really cool plugin - Go make a plugin, do a pull-request and I'll add it th
 - Author - [Ihimekpen Osemudiamen](https://github.com/IHIMEKPEN)
 - Mail - [Ihimekpen Osemudiamen](mailto:oihimekpen@gmail.com)
 
-## License
-
-MIT © Gabe Ragland (follow me on <a href="https://twitter.com/gabe_ragland">Twitter</a>)
